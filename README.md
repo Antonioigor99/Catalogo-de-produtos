@@ -21,3 +21,5 @@ Navegação entre páginas com React Router
 Os dados vêm da API pública Fake Store.
 
 O projeto foi criado com foco em prática de React e navegação com React Router.
+
+Link deploy: https://catalogo-de-produtos-delta.vercel.app/
